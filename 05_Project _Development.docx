@@ -1,0 +1,29 @@
+Project Development
+
+Development Process
+
+The Auto Ticket Classification System is developed to automatically categorize support tickets based on their descriptions.
+
+Development Steps
+
+1. Collect the required ticket dataset.
+2. Clean and preprocess the ticket data.
+3. Prepare the data for classification.
+4. Train the classification model.
+5. Test the trained model.
+6. Accept a new ticket from the user.
+7. Process the ticket description.
+8. Predict the appropriate ticket category.
+9. Display the classification result.
+
+Example
+
+Ticket Description:
+Unable to connect to Wi-Fi.
+
+Predicted Category:
+Network Issue
+
+Expected Output
+
+The system analyzes the submitted ticket and automatically displays the most appropriate category.
