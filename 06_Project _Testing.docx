@@ -1,0 +1,22 @@
+Project Testing
+
+Testing Objective
+
+The objective of testing is to verify that the Auto Ticket Classification System correctly processes support tickets and predicts the appropriate categories.
+
+Test Cases
+
+Test Case| Input| Expected Result
+TC01| Password reset request| Account/Password Issue
+TC02| Wi-Fi is not working| Network Issue
+TC03| Software installation request| Software Issue
+TC04| Computer is not starting| Hardware Issue
+TC05| Email is not working| Email Issue
+
+Test Result
+
+The system processes the submitted ticket descriptions and predicts the appropriate categories. Different ticket inputs are tested to verify the classification process.
+
+Conclusion
+
+The testing process helps verify that the system performs the required ticket classification functionality correctly.
