@@ -1,0 +1,43 @@
+Project Design
+
+System Architecture
+
+The Auto Ticket Classification System follows a simple workflow where the user submits a support ticket, the system processes the ticket description, and the classification model predicts the appropriate category.
+
+System Workflow
+
+User
+↓
+Submit Ticket
+↓
+Ticket Description
+↓
+Text Preprocessing
+↓
+Classification Model
+↓
+Category Prediction
+↓
+Display Result
+
+Main Modules
+
+1. Ticket Submission
+
+The user submits a support ticket with the required details and problem description.
+
+2. Text Preprocessing
+
+The ticket description is cleaned and processed before classification.
+
+3. Ticket Classification
+
+The processed ticket is given to the classification model.
+
+4. Category Prediction
+
+The system predicts the most suitable category for the ticket.
+
+5. Result Display
+
+The predicted category is displayed to the user.
