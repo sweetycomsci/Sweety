@@ -1,0 +1,34 @@
+Requirement Analysis
+
+Functional Requirements
+
+- The system should allow users to submit support tickets.
+- The system should accept the ticket description.
+- The system should process the submitted ticket.
+- The system should classify the ticket into an appropriate category.
+- The system should display the predicted category.
+- The system should store ticket details if required.
+
+Non-Functional Requirements
+
+- The system should be easy to use.
+- The system should provide quick results.
+- The system should be reliable.
+- The system should maintain data security.
+- The system should be scalable for handling multiple tickets.
+
+Software Requirements
+
+- Python
+- Machine Learning
+- Natural Language Processing (NLP)
+- VS Code or Jupyter Notebook
+- Python Libraries
+- Database (if required)
+
+Hardware Requirements
+
+- Laptop or Desktop Computer
+- Minimum 4 GB RAM
+- Internet Connection
+- Basic storage space for project files
