@@ -1,0 +1,29 @@
+Project Documentation
+
+Abstract
+
+Auto Ticket Classification System is designed to automate the categorization of support tickets. The system analyzes the ticket description and predicts the appropriate category using text processing and classification techniques. This reduces manual classification work and helps support teams process tickets more efficiently.
+
+Objectives
+
+- Automate ticket classification.
+- Reduce manual effort.
+- Save processing time.
+- Improve ticket organization.
+- Support faster ticket handling.
+
+Working Process
+
+First, the user submits a support ticket. The system receives the ticket description and performs text preprocessing. The processed information is then provided to the classification model. The model predicts the appropriate category and displays the result.
+
+Benefits
+
+- Reduces manual work.
+- Saves time.
+- Provides organized ticket classification.
+- Helps improve support workflow.
+- Can handle multiple support tickets.
+
+Conclusion
+
+The Auto Ticket Classification System provides an automated approach for categorizing support tickets. It helps reduce manual effort and improves the efficiency of the support ticket management process.
