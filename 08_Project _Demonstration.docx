@@ -1,49 +1,18 @@
 Project Demonstration
-
-Project Name
-
+Project Title
 Auto Ticket Classification System
-
-Purpose of the Project
-
-The purpose of this project is to automatically classify support tickets into appropriate categories based on their descriptions.
-
-Benefits of the Project
-
-The system reduces manual classification work, saves time, organizes support tickets, and helps support teams handle tickets efficiently.
-
-Working Process
-
-First, the user enters or submits a support ticket. The system receives the ticket description and processes the text. The classification model analyzes the ticket and predicts the appropriate category. Finally, the predicted category is displayed on the screen.
-
+Project Purpose
+The purpose of this project is to automatically classify support tickets into appropriate categories based on the ticket description.
+Project Benefits
+Reduces manual ticket classification.
+Saves time.
+Improves ticket organization.
+Provides quick classification results.
+Helps support teams manage tickets efficiently.
+Project Execution
+First, the user enters the support ticket description into the system. The submitted ticket is then processed by the system. The classification model analyzes the ticket description and identifies the appropriate category. Finally, the predicted category is displayed to the user.
 Final Output
-
-The system successfully classifies the submitted support ticket and displays the predicted category.
-
-Demo Video
-
-The project demonstration video will show the complete working process, including ticket submission, classification, and final output.
-
-Project Name
-
-Auto Ticket Classification System
-
-Purpose of the Project
-
-The purpose of this project is to automatically classify support tickets into appropriate categories based on their descriptions.
-
-Benefits of the Project
-
-The system reduces manual classification work, saves time, organizes support tickets, and helps support teams handle tickets efficiently.
-
-Working Process
-
-First, the user enters or submits a support ticket. The system receives the ticket description and processes the text. The classification model analyzes the ticket and predicts the appropriate category. Finally, the predicted category is displayed on the screen.
-
-Final Output
-
-The system successfully classifies the submitted support ticket and displays the predicted category.
-
-Demo Video
-
-The project demonstration video will show the complete working process, including ticket submission, classification, and final output.
+The system successfully analyzes the submitted support ticket and automatically displays the appropriate ticket category.
+Demo Video Link
+The complete project demonstration video will show the project purpose, working process, execution, and final output.
+Google Drive Demo Video Link: [Paste your Google Drive link here
